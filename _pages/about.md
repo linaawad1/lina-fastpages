@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+**[Lina](https://github.com/linaawad1)** [^1] is a new computer science student at del norte hoping to learn cool skills. 
 
 
 
