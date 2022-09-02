@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Title",
-            "content": "toc: true layout: post description: Theme Change categories: [markdown] title: Theme Change .",
+            "content": ". toc: true layout: post description: Theme categories: [markdown] . title: Theme Change .",
             "url": "https://linaawad1.github.io/lina.github.io/2022/09/02/Theme-Change.html",
             "relUrl": "/2022/09/02/Theme-Change.html",
             "date": " • Sep 2, 2022"
