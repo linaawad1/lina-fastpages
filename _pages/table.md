@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: page
-decription: Table of Contents
+decription: Weekly
 title: Table
 permalink: /toc/
 ---
@@ -9,7 +9,8 @@ permalink: /toc/
 <table>
     <tr>
      <th>Week</th>
-     <th>APCSPt</th>
+     <th>APCSP</th>
      <th>Personal</th>
      <th>Canvas</th>
     </tr>
+
