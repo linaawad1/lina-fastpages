@@ -4,7 +4,7 @@ Layout: post
 description: Quiz Outline
 Title: Quiz Outline
 permalink: /quizoutline/
-categories: Week 3
+categories: 3
 ---
 
 # My Quiz Outline
