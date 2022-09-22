@@ -1,15 +1,14 @@
 ---
-Toc: false
+Toc: True
 Layout: post
 description: Quiz Outline
 Title: Quiz Outline
-permalink: /quizoutline/
-categories: 3
+Categories: [3]
 ---
 
 # My Quiz Outline
 
-Ideas:
+Ideas for Quiz:
 
 1. Make a cell phone layout to hold our quiz
 2. Our lockscreen is a photo of Chris and Matt Sturniolo using the upload image feature and an open button
