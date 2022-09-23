@@ -1,9 +1,10 @@
 ---
 Toc: false
 Layout: post
-description: Theme Change
-Title: Theme Change
+description: Agile Methodology
+Title: Agile Methodology
 ---
 
-# Theme Change]
+# Scrum Process
+
 ![]({{site.baseurl}}/images/scrumprocess.png)
