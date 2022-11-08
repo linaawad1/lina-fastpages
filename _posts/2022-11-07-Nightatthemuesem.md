@@ -24,6 +24,8 @@ This is one of them:
 
 This is Lydia and I's reactions:
 
+![]({{site.baseurl}}/images/reaction.png)
+
 We thought these donut animations were so interesting and we spent a good amount of time in awe. SO COOL!
 
 ### Stop 3: Studio Art
@@ -31,6 +33,8 @@ We thought these donut animations were so interesting and we spent a good amount
 SOOOO COOL. We walked around the studio art room admiring all the different art pieces and even the photography that was in the room.
 
 One of my friends showed me hers:
+
+![]({{site.baseurl}}/images/anisa.png)
 
 When I asked her what inspired her she told me about the prompt to capture something personal. she chose the theme of the stages of grief. It was super cool what she did and everyone elses was so inspiring and pretty.
 
@@ -42,6 +46,9 @@ I took ceramics last school year and I loved it. My favorite part was admiring w
 
 Here are some good ones:
 
+![]({{site.baseurl}}/images/ceramics.png)
+
+![]({{site.baseurl}}/images/ceramictwo.png)
 
 ### What did I takeway?
 I took away the awe and inspirations from these designs. It was so cool and unique to me that it made me want to learn more about how they made these designs possible. I was also now hungry for some donuts. All the art pieces were super cool and unique and I loved exposing myself to new things. It also lowkey made me want to draw something. All the themes for the AP Studio art were super fun and cool. Furthermore, it was just fun to see what other people's hard work got them and all the cool things people have to show for it.
