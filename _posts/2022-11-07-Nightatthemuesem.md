@@ -1,8 +1,8 @@
 ---
-Toc: True
-Layout: post
+toc: True
+layout: page
 description: A blog
-Title: Night at the Museum
+title: Night at the Museum
 categories: [blog]
 ---
 
@@ -12,7 +12,9 @@ Me and Lydia looked at a variety of different CSP projects but the one I really 
 
 ![]({{site.baseurl}}/images/CSP.png)
 
-This group made a website where you can type an item and the price you are "selling" it for and put it on an online shop. It was super unique and it was so fun to experience the website as someone just watching.
+- This group made a website where you can type an item and the price you are "selling" it for and put it on an online shop. 
+- It was super unique and it was so fun to experience the website as someone just watching.
+- It also inspired me to incorporate something fun and more interactive as a lesson for the project
 
 ### Stop 2: 3D animation
 
@@ -26,7 +28,8 @@ This is Lydia and I's reactions:
 
 ![]({{site.baseurl}}/images/reaction.png)
 
-We thought these donut animations were so interesting and we spent a good amount of time in awe. SO COOL!
+- We thought these donut animations were so interesting and we spent a good amount of time in awe. SO COOL!
+- We also spent a lot of time looking for the donut with the surfboard because we thought it was super pretty
 
 ### Stop 3: Studio Art
 
@@ -36,7 +39,8 @@ One of my friends showed me hers:
 
 ![]({{site.baseurl}}/images/anisa.png)
 
-When I asked her what inspired her she told me about the prompt to capture something personal. she chose the theme of the stages of grief. It was super cool what she did and everyone elses was so inspiring and pretty.
+- When I asked her what inspired her she told me about the prompt to capture something personal. she chose the theme of the stages of grief.
+- It was super cool what she did and everyone elses was so inspiring and pretty.
 
 ### Stop 4: Ceramics
 
