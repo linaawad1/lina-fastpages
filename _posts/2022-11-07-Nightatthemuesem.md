@@ -1,9 +1,11 @@
 ---
-toc: True
+description: Blog Time
+title: Night @ the Museum
+toc: true 
 layout: default
-description: A blog
-title: Night at the Museum
-categories: [blog]
+badges: true
+categories: [Final]
+layout: notebook
 ---
 
 ### Stop 1: APCSP
