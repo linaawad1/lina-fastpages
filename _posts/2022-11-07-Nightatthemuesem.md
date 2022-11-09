@@ -1,6 +1,6 @@
 ---
 toc: True
-layout: page
+layout: default
 description: A blog
 title: Night at the Museum
 categories: [blog]
@@ -8,7 +8,7 @@ categories: [blog]
 
 ### Stop 1: APCSP
 
-Me and Lydia looked at a variety of different CSP projects but the one I really liked the most was the online and called th DN market place:
+Me and Lydia looked at a variety of different CSP projects. The one I really liked the most was the online and called th DN market place:
 
 ![]({{site.baseurl}}/images/CSP.png)
 
