@@ -1,6 +1,6 @@
 ---
 description: Blog Time
-title: Night @ the Museum
+title: Night at the Museum
 toc: true 
 layout: default
 badges: true
