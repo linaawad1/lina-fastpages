@@ -2,7 +2,7 @@
 description: Blog Time
 title: Night @ the Muesem
 toc: true 
-layout: default
+layout: base
 badges: true
 categories: [Final]
 layout: notebook

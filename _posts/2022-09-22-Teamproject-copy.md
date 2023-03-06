@@ -3,7 +3,7 @@ keywords: fastai
 description: Learning to use JavaScript
 title: JavaScript
 toc: true 
-layout: default
+layout: base
 badges: true
 categories: [week 5]
 nb_path: _notebooks/2022-09-22-Teamproject copy.ipynb

@@ -2,7 +2,7 @@
 description: Blog Time
 title: College Board Requirements in my code
 toc: true 
-layout: default
+layout: base
 badges: true
 categories: [Final]
 layout: notebook

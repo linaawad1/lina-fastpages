@@ -2,7 +2,7 @@
 description: Blog Time
 title: Night at the Museum
 toc: true 
-layout: default
+layout: base
 badges: true
 categories: [Final]
 layout: notebook
